@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nome": "Copo Casadinho",
+    "ingredientes": ["Creme de ninho", "Creme de avelã", "Canudo Wafer"],
+    "descricao": "Uma combinação irresistível de creme de ninho com creme de avelã, finalizado com crocante canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "Copo Sensação",
+    "ingredientes": ["Morango", "Leite em pó", "Ovo Maltine", "Canudo Wafer"],
+    "descricao": "Delicioso mix de morango com leite em pó e crocante Ovo Maltine, acompanhado de canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 3,
+    "nome": "Copo Místico",
+    "ingredientes": ["Leite condensado", "Leite em pó", "Creme de avelã", "Kit Kat ou Bis"],
+    "descricao": "Uma explosão de sabores com leite condensado, leite em pó, creme de avelã e pedacinhos de Kit Kat ou Bis.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 4,
+    "nome": "Copo Verão",
+    "ingredientes": ["Creme de ninho", "Banana", "Uva verde", "Granola"],
+    "descricao": "Refrescante combinação de creme de ninho com banana, uva verde e o toque crocante da granola.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 5,
+    "nome": "Copo Leitinho",
+    "ingredientes": ["Morango ou Banana", "Leite em Pó", "Leite Condensado", "Canudo Wafer"],
+    "descricao": "Frutas frescas (morango ou banana) combinadas com leite em pó e leite condensado, finalizadas com canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 6,
+    "nome": "Copo Bombom",
+    "ingredientes": ["Creme de avelã", "Sonho de valsa ou Ouro Branco", "Leite Condensado", "Leite em Pó"],
+    "descricao": "Saboroso creme de avelã com bombons Sonho de Valsa ou Ouro Branco, leite condensado e leite em pó.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 7,
+    "nome": "Copo Nut",
+    "ingredientes": ["Morango ou Banana", "Leite em Pó", "Creme de Avelã", "Canudo Wafer"],
+    "descricao": "Frutas (morango ou banana) com leite em pó e creme de avelã, acompanhadas de crocante canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 8,
+    "nome": "Copo Clássico",
+    "ingredientes": ["Morango ou Banana", "Leite Condensado", "Leite em Pó", "Granola", "Creme de Avelã", "Canudo Wafer"],
+    "descricao": "O tradicionalíssimo copo com frutas (morango ou banana), leite condensado, leite em pó, granola e creme de avelã, finalizado com canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 9,
+    "nome": "Copo Oreo",
+    "ingredientes": ["Bolacha Oreo", "Creme de Ninho", "Canudo Wafer"],
+    "descricao": "Irresistível mistura de bolacha Oreo triturada com creme de ninho, finalizada com canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 10,
+    "nome": "Copo Ovo Maltine",
+    "ingredientes": ["Ovo Maltine", "Creme de Avelã", "Canudo Wafer"],
+    "descricao": "O sabor único do Ovo Maltine com creme de avelã e crocante canudo wafer.",
+    "precos": { "P": 18.99, "M": 21.99, "G": 23.99, "COPAO": 29.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 11,
+    "nome": "Copo Tradicional",
+    "ingredientes": ["Leite condensado", "Leite em pó", "Banana", "Granola"],
+    "descricao": "Receita clássica com leite condensado, leite em pó, banana e o crocante da granola.",
+    "precos": { "P": 15.99, "M": 18.99, "G": 20.99, "COPAO": 26.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 12,
+    "nome": "Copo Kids",
+    "ingredientes": ["Leite condensado", "Morango", "Banana", "Confete"],
+    "descricao": "Versão divertida com leite condensado, frutas (morango e banana) e confeitos coloridos.",
+    "precos": { "P": 15.99, "M": 18.99, "G": 20.99, "COPAO": 26.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 13,
+    "nome": "Copo Choco",
+    "ingredientes": ["Morango ou Banana", "Creme de Avelã"],
+    "descricao": "Deliciosa combinação de frutas (morango ou banana) com cremoso creme de avelã.",
+    "precos": { "P": 15.99, "M": 18.99, "G": 20.99, "COPAO": 26.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 14,
+    "nome": "Copo Duplo Leite",
+    "ingredientes": ["Leite em Pó", "Leite Condensado"],
+    "descricao": "Simples e irresistível: leite em pó com leite condensado, para os apaixonados por doce de leite.",
+    "precos": { "P": 13.99, "M": 16.99, "G": 19.99, "COPAO": 24.99 },
+    "img": "/produtos/teste.jpeg"
+  },
+  {
+    "id": 15,
+    "nome": "Copo Paçoquita",
+    "ingredientes": ["Leite Condensado", "Paçoca"],
+    "descricao": "Clássica mistura de leite condensado com a crocância e o sabor único da paçoca.",
+    "precos": { "P": 13.99, "M": 16.99, "G": 19.99, "COPAO": 24.99 },
+    "img": "/produtos/teste.jpeg"
+  }
+]
