@@ -6,10 +6,12 @@ import Destaques from '../../components/destaque';
 import ProdutosDestaques from '../../components/produtosDestaques';
 import AllItens from '../../components/itens';
 import Tigela from '../../components/tigela';
+import Abas from '../../components/menu-aba';
 
 function Inicio() {
   return (
     <>
+      <Abas />
       <header className="App-header">
         <Header />
       </header>
@@ -18,9 +20,10 @@ function Inicio() {
       </div>
       <section className='section-products'>
         <Menu />
-        <ProdutosDestaques/>
-        <AllItens/>
-        <Tigela/>
+        <ProdutosDestaques />
+        <AllItens />
+        <Tigela />
+        copos
       </section>
     </>
   );
